@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+
+<!--    Main App Header (H) -->
+    <string name="main_app_H"> Mortgage Calculator </string>
+
+<!--    Principal Label (L) & Input Field (IF) -->
+    <string name="principal_L">Principal Amount</string>
+    <string name="principal_IF">Enter Principal Amount</string>
+
+<!--    Interest Rate Label (I_R_L) & Input Field (IF) -->
+    <string name="I_R_L"> Interest Rate </string>
+    <string name="IR_IF"> Enter Interest Rate</string>
+
+<!--    Amortization Period Label (A_P_L) & Input Field (IF)-->
+    <string name="A_P_L">Amortization Period (In Months)</string>
+    <string name="A_P_IF">Enter Amortization Period</string>
+
+<!--    Submit Button-->
+    <string name="submit_btn">Submit</string>
+
+<!--    Result Output-->
+    <string name="result">Result will appear here</string>
+</resources>
